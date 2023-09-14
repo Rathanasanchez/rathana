@@ -2,4 +2,4 @@
 
 
 Click to visit Our:
-https://github.com/Rathanasanchez/rathana/
+https://rathanasanchez.github.io/rathana/
